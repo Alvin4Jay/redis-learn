@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/redis-learn.iml" filepath="$PROJECT_DIR$/redis-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-spring-boot-demo/redis-spring-boot-demo.iml" filepath="$PROJECT_DIR$/redis-spring-boot-demo/redis-spring-boot-demo.iml" />
     </modules>
   </component>
 </project>

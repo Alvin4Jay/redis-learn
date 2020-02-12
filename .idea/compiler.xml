@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="redis-learn" />
+        <module name="redis-spring-boot-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="redis-learn" target="1.8" />
+      <module name="redis-spring-boot-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
